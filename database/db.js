@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const MONGO_URL = "mongodb://localhost/autenticacionLocal ";
+const MONGO_URL = "mongodb://localhost/autenticacionLocal";
 
 const db = async () => {
   await mongoose
