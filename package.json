@@ -1,0 +1,29 @@
+{
+  "name": "authentication-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorosana/Authentication-MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorosana/Authentication-MERN/issues"
+  },
+  "homepage": "https://github.com/rorosana/Authentication-MERN#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
